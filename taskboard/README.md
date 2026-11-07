@@ -112,18 +112,21 @@ taskboard/
 
 ## Screenshots
 
-Add your own screenshots after running the app. Suggested captures:
+### Desktop task list
 
-1. `screenshots/tasks-desktop.png` — task list with filters.
-2. `screenshots/task-details.png` — dynamic task details page.
-3. `screenshots/stats.png` — overview and per-user chart.
-4. `screenshots/mobile.png` — responsive mobile layout.
+![Task list with filters](screenshots/tasks-desktop.png)
 
-You can then embed them here, for example:
+### Mobile layout
 
-```md
-![Task list](screenshots/tasks-desktop.png)
-```
+![TaskBoard mobile layout](screenshots/mobile.png)
+
+### Empty search results
+
+![No tasks match the selected filters](screenshots/no-tasks-match.png)
+
+### Statistics
+
+![Task statistics](screenshots/stats.png)
 
 ## Notes for review
 
