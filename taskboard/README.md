@@ -112,9 +112,9 @@ taskboard/
 
 ## Screenshots
 
-### Desktop task list
+### Task list
 
-![Task list with filters](screenshots/tasks-desktop.png)
+![Task list with filters](screenshots/task-details.png)
 
 ### Mobile layout
 
@@ -122,7 +122,7 @@ taskboard/
 
 ### Empty search results
 
-![No tasks match the selected filters](screenshots/no-tasks-match.png)
+![No tasks match the selected filters](screenshots/tasks-desktop.png)
 
 ### Statistics
 
